@@ -6,3 +6,17 @@ langchain-community
 streamlit
 google-generativeai
 faiss-cpu
+
+nltk
+pytesseract
+PyMuPDF
+Pillow
+transformers
+torch
+torchvision
+
+mistralai
+numpy
+
+weaviate-client
+langchain-weaviate
