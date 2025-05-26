@@ -30,7 +30,7 @@ except LookupError:
     print("NLTK data downloaded!")
 
 # API Key configuration with better error handling
-API_KEY = "AIzaSyA-9fewNOpA7lJqRri2F8Ce4e6VRIKzHaU"
+API_KEY = "REPLACEEEE"
 try:
     print("Configuring Google API...")
     genai.configure(api_key=API_KEY)
